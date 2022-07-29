@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit</h1>
 <h3 align="center">A Blockchain developer with experience in creating NFT Marketplace, Decentralized Exchange,ERC20, ERC721, layer 2 solutions for scaling Blockchain - zkRollups, zksync; Wallet connection using ether.js,web3-modal and web3React</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Also learning little **React**
 
 - 💬 Ask me about **Ethereum, Solidity,web3,javascript,Hardhat,ER20, ERC721, zksync**, Solana, Rust
 
